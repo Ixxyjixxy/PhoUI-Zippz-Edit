@@ -3,3 +3,5 @@
 
 
 PhoUI with more default frames look - Use the Big Frame Style under Unitframes within the /pho command
+
+All credit should always be directed to PhoUI 
